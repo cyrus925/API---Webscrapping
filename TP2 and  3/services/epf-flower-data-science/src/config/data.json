@@ -1,0 +1,14 @@
+{
+    "iris": {
+        "name": "iris",
+        "url": "uciml/iris"
+    },
+    "titanic": {
+        "name": "titanic",
+        "url": "heptapod/titanic"
+    },
+    "heart attack": {
+        "name": "heart attack",
+        "url": "iamsouravbanerjee/heart-attack-prediction-dataset"
+    }
+}
